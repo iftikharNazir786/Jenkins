@@ -2,13 +2,13 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="My Suite" verbose="2"  parallel="none" thread-count="1">
 
-    <test name="Some Workflow Tests 1" parallel="none">
+  
+  
+  <test name="Some Workflow Tests 5" parallel="none">
     <classes>
-    	<class name="Master.Yelp"/>
+    	<class name="Master.SepRelease"/>
     </classes>
   </test>
-  
-  
   
   <!-- Test -->
 </suite> 
