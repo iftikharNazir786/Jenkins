@@ -20,21 +20,7 @@
     </classes>
   </test>
   
-  
-   <test name="Some Workflow Tests 4" parallel="none">
-    <classes>
-    	<class name="Master.WESPORDER"/>
-    </classes>
-  </test>
-  
-  
-  
-  <test name="Some Workflow Tests 5" parallel="none">
-    <classes>
-    	<class name="Master.SepRelease"/>
-    </classes>
-  </test>
-  
+ 
   <!-- Test -->
 </suite> 
 
